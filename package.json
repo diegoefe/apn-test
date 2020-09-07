@@ -1,0 +1,16 @@
+{
+  "name": "pruPushAPN",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apn": "^2.2.0",
+    "fs-extra": "^8.0.1"
+  }
+}
