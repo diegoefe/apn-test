@@ -1,0 +1,4 @@
+*.p8
+node_modules
+package-lock.json
+local-*.json
